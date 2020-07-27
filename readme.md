@@ -1,5 +1,3 @@
-# note: this repo is deprecated. all future work is taking place at https://github.com/Voter-Aid/voteraid
-
 # VoterAid
 
 *Stop voter intimidation before it starts.*
